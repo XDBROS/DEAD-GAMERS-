@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XD BROS - 67 RAP LIVE 8:55 PM</title>
+<style>
+  body { margin:0; font-family:Arial, sans-serif; background:#0a0a0a; color:#fff; }
+  
+  /* NEWS BAR */
+ .news-bar { background:#000; color:yellow; padding:10px; text-align:center; font-weight:bold; font-size:16px; border-bottom:2px solid #ff0000; }
+  
+  header { text-align:center; padding:25px 20px; background:#ff0000; }
+ .logo { width:180px; height:180px; border-radius:50%; border:4px solid #000; object-fit:cover; margin-bottom:10px; }
+  header h1 { color:#fff; margin:5px 0; font-size:32px; letter-spacing:2px; }
+ .live { background:yellow; color:black; padding:12px; font-weight:bold; font-size:18px; animation:blink 1s infinite; }
+  @keyframes blink { 50% {opacity:0;} }
+
+  /* SUPPORT SECTION */
+ .donate { padding:40px 20px; text-align:center; background:#111; border-top:2px solid #ff0000; border-bottom:2px solid #ff0000; }
+ .donate h2 { color:#ff0000; margin-bottom:10px; }
+ .donate p { color:#ccc; margin-bottom:20px; }
+ .donate-buttons { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:20px 0; }
+ .donate-btn { background:#00ff00; color:#000; padding:12px 20px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:8px; display:inline-block; transition:0.3s; min-width:120px; }
+ .donate-btn:hover { background:#00cc00; transform:scale(1.1); }
+
+ .about { padding:40px 20px; text-align:center; background:#111; }
+ .about h2 { color:#ff0000; margin-bottom:10px; }
+ .about p { max-width:700px; margin:auto; color:#ccc; line-height:1.6; font-size:16px; }
+  
+ .video-title { text-align:center; color:#ff0000; font-size:24px; padding:20px 0 0 0; }
+ .video-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:15px; padding:20px; max-width:1400px; margin:auto; }
+ .video-grid iframe { width:100%; height:200px; border:none; border-radius:8px; }
+  
+ .social { text-align:center; padding:30px 20px; background:#111; }
+ .social h2 { color:#ff0000; margin-bottom:15px; }
+ .btn { color:#fff; padding:12px 22px; margin:8px; text-decoration:none; border-radius:6px; display:inline-block; font-weight:bold; transition:0.3s; }
+ .btn:hover { transform:scale(1.05); }
+ .btn-yt { background:#ff0000; }
+ .btn-tt { background:#000; border:1px solid #fff; }
+ .btn-fb { background:#1877F2; }
+ .btn-th { background:#000; }
+ .btn-ig { background:#E1306C; }
+  
+  footer { text-align:center; padding:20px; background:#000; color:#888; }
+</style>
+</head>
+<body>
+
+<!-- NEWS BAR -->
+<div class="news-bar">
+  <marquee>🔥 67 RAP OUT NOW | SUBSCRIBE TO DEAD GAMERS| LIVE EVERY NIGHT 8:55 PM | SUPPORT THE MOVEMENT 🔥</marquee>
+</div>
+
+<header>
+  <img src="logo.png" alt="XD BROS Logo" class="logo">
+  <h1>XD BROS</h1>
+  <p class="live">🔴 67 RAP LIVE TODAY 8:55 PM</p>
+</header>
+
+<!-- SUPPORT SECTION -->
+<section class="donate">
+  <h2>SUPPORT DEAD GAMERS 67</h2>
+  <p>Your support means everything to us ❤️ Help us grow the family</p>
+  
+  <div class="donate-buttons">
+    <a href="https://youtube.com/@DEADGAMERS?sub_confirmation=1" target="_blank" class="donate-btn">SUBSCRIBE</a>
+    <a href="https://youtube.com/@DEADGAMERS" target="_blank" class="donate-btn">WATCH VIDEOS</a>
+    <a href="https://instagram.com/" target="_blank" class="donate-btn">FOLLOW IG</a>
+    <a href="https://tiktok.com/@hboy67917@" target="_blank" class="donate-btn">TIKTOK</a>
+  </div>
+
+  <p style="margin-top:15px; font-size:14px; color:#00ff00;">
+    Coming Soon: JazzCash / Easypaisa / Bank <br>
+    For now: Share + Subscribe + Comment "67"
+  </p>
+</section>
+
+<!-- ABOUT SECTION -->
+<section class="about">
+  <h2>ABOUT DEAD GAMERS</h2>
+  <p>
+    We are DEAD GAMERS. 67 RAP is our movement. New music, new energy, new era. <br>
+    Family by <b>Hacker</b> & <b>Boy</b> ❤️ Follow us everywhere 👇
+  </p>
+</section>
+
+<!-- VIDEO SECTION -->
+<h2 class="video-title">OFFICIAL VIDEOS</h2>
+<section class="video-grid">
+  <iframe src="https://www.youtube.com/embed/dm27esRuqjw" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/UfwJ11F_BTI" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/uPB7bXwbrwg" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/foPVohn_8DQ" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/KqmQn-OuSTc" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/r1eT_ZyF5Js" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/IRM5fgIT1xE" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Sb1G5-pOWT4" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/r6Lrne-bnbo" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/TlvGjg_tx5k" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/dAlj6IKNCek" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/yU7ll58fYzA" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/fVAGD0OtkWc" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/-nV40b-P-U0" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/OujPKqG0yWY" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Fq6t4LHceOI" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/LXcnfTnpwXM" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/esFn6WkPZfU" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Y2v_Wucuqbw" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Vwo1-rvHhWY" title="DEAD GAMERS Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</section>
+
+<!-- SOCIAL SECTION -->
+<section class="social">
+  <h2>FOLLOW THE FAMILY</h2>
+  <a href="https://youtube.com/@DEADGAMERS" target="_blank" class="btn btn-yt">YOUTUBE</a>
+  <a href="https://tiktok.com/@hboy67917" target="_blank" class="btn btn-tt">TIKTOK - Hacker</a>
+  <a href="https://facebook.com/hboy67917" target="_blank" class="btn btn-fb">FACEBOOK - Boy</a>
+  <a href="https://www.threads.net/@zoyafaizan27" target="_blank" class="btn btn-th">THREADS - ZOYA</a>
+  <a href="https://instagram.com/" target="_blank" class="btn btn-ig">INSTAGRAM</a>
+</section>
+
+<footer>
+  <p>© 2026 XD BROS. 67 RAP | All Rights Reserved</p>
+</footer>
+
+<!-- TAWK.TO LIVE CHAT -->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6a6dbf8323a2ed1d4c4ad2ac/1';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+
+</body>
+</html>
